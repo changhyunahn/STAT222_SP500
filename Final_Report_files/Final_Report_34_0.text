@@ -1,0 +1,10 @@
+Series: ts(postev) 
+ARIMA(1,1,1)                    
+
+Coefficients:
+         ar1      ma1
+      0.2610  -0.4133
+s.e.  0.1525   0.1429
+
+sigma^2 estimated as 331.5:  log likelihood=-4044.17
+AIC=8094.35   AICc=8094.37   BIC=8108.87

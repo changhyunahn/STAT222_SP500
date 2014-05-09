@@ -1,0 +1,8 @@
+        Test Name                        Requirements   P Value Signif
+0   Wilcoxon rank  independent, dist equal under null  0.237505   >.05
+1  Matched Pair T                   paired up, normal  0.002183   <.01
+2  Kruskal-Wallis          one-way ANOVA, iid, normal  0.474990   >.05
+3     T Statistic         student"s t-tests, dof > 30  0.162356   >.05
+4         Fridman         repeated measure same dist?  0.000001   <.01
+
+[5 rows x 4 columns]

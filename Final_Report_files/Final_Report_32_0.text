@@ -1,0 +1,10 @@
+Series: ts(preev) 
+ARIMA(1,0,1) with non-zero mean 
+
+Coefficients:
+         ar1      ma1  intercept
+      0.9985  -0.0423  1185.8297
+s.e.  0.0018   0.0251   187.6526
+
+sigma^2 estimated as 142.5:  log likelihood=-7004.82
+AIC=14017.65   AICc=14017.67   BIC=14039.62
