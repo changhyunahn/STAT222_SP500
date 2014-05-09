@@ -1,9 +1,9 @@
 STAT222_SP500
 =============
 
-# STAT222 Research on S&P 500 Index
+STAT222 Research on S&P 500 Index
 
-# Abstract of our research
+Abstract of our research
 
 # Module 1
 
