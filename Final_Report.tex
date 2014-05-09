@@ -208,7 +208,7 @@
     \title{A Study on S\&P500 Index}
     \date{May 9, 2014}
     \release{}
-    \author{Changhyun Ahn\\Xi Edward Cai\\Biwei Betti Tao}
+    \author{Changhyn Ahn\\Xi Edward Cai\\Biwei Betti Tao}
     \renewcommand{\releasename}{}
 
     % TODO: Add option for the user to specify a logo for his/her export.
@@ -237,7 +237,7 @@
         \section{SP 500 Analysis}\label{sp-500-analysis}
 
 This is a group project for the Master's Capstone course STAT222 at UC
-Berkeley, Statistics Department. We have three grouop members: Changhyn
+Berkeley, Statistics Department. We have three group members: Changhyn
 Ahn, Xi Edward Cai, and Biwei Betti Tao; our research object is the
 public SP500 data, and our public github is at
 https://github.com/changhyunahn/STAT222\_SP500 .
@@ -249,18 +249,17 @@ In modeule 1, we intend to find out if the market was more responsive to
 bad news as opposed to good news? Restoring from a recent financial
 crisis in 2008, the world witnessed a volatile stock market - in
 particular, in the notion of the financial sector - during the period of
-2008 to 2013. One perhaps might inevitably wonder, ``In chain of
-unprecedented bad news in that meltdown, has the market suffered from an
-everlasting increased systemic risk in contrast to pre-event state?''
-Looking at the historical quotes of global stock market indices
-(e.g.~SP500, DJ, NASDAQ), we attempt to identify world-renown infamous
-financial crisis (such as dot-com and sub-prime) occurred during the
-last decades - in particular, the late 90's and 00's. On the above
-datasets, we are going to apply time-series analytics (such as ARIMA and
-GARCH) to construct models, which can illustrate then-market
-volatilities with their corresponding parameters. Then, we compare the
-above figures against those of the pre-event times, referred as the
-control group.
+2008 to 2013. One perhaps might wonder, ``In chain of unprecedented bad
+news in that meltdown, has the market suffered from an everlasting
+increased systemic risk in contrast to pre-event state?'' Looking at the
+historical quotes of global stock market indices (e.g.~SP500, DJ,
+NASDAQ), we firstly attempt to identify world-renown infamous financial
+crisis (such as dot-com and sub-prime) occurred during the last decades
+- in particular, the late 90's and 00's. On the above datasets, we are
+going to apply time-series analytics (such as ARIMA and GARCH) to
+construct models, which can illustrate then-market volatilities with
+their corresponding parameters. Then, we compare the above figures
+against those of the pre-event times, referred as the control group.
 
 In module 2, we intend to employ a series of conventional statistical
 methods to analyze whether or not the stock market, resembled by the
@@ -275,7 +274,7 @@ immediate preceding Fridays.''\section{Volatility Comparison}\label{volatility-c
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}1{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}57{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -323,18 +322,19 @@ immediate preceding Fridays.''\section{Volatility Comparison}\label{volatility-c
     
 Financial markets definitely react to bad news, but how? We think that
 once a financial market suffers from a crisis, then it will be changed
-inherently and will not adjust back to previous state. We will show this
-by some time series analysis techniques. Basically, we are using S\&P
-500 index rather than using an arbitrary stock price. One reason why we
-choose this particular dataset as our primary source is that the dataset
-is highly representative to the global economies. S\&P 500 is from the
-U.S. stock markets and the U.S. Stock markets heavily influence the
-world. In addition to the above rational, a stock market is relatively
-appropriate to serve a research objective than other financial
-instruments, including real estates, bonds and derivatives. Stock is
-usually more liquid and flexible than fixed income sercurities or long
-term bonds. Liquidity makes the index directly reflect upon news just in
-time. However, it is neither too risky nor too complex than futures or
+inherently and thereafter will not adjust back to previous state any
+time soon. We will show this by some time series analysis techniques.
+Basically, we are using S\&P 500 index rather than using an arbitrary
+stock price. One reason why we choose this particular dataset as our
+primary source is that composed indiced, such as S\&P500 itself, are
+highly representative to the global economies. S\&P 500 is from the U.S.
+stock markets and the U.S. Stock markets heavily influence the world. In
+addition to the above rational, a stock market is relatively appropriate
+to serve the research objective than other financial instruments,
+including real estates, bonds and derivatives. Stock is usually more
+liquid and flexible than fixed income sercurities or long term bonds.
+Liquidity makes the index directly reflect upon news just in time.
+However, it is neither too risky nor too complex than futures or
 derivatives markets whose results might not be applied to a general idea
 as to how good news and bad news affect the economies. Finally,
 individual price is not used for our research because we are hoping to
@@ -347,7 +347,7 @@ single company but rather the whole economy.\subsection{Smoothed index}\label{sm
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}2{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}58{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -410,18 +410,8 @@ single company but rather the whole economy.\subsection{Smoothed index}\label{sm
             
                 \begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}/Users/edwsurewin/anaconda/lib/python2.7/site-
-packages/matplotlib/font\_manager.py:1236: UserWarning: findfont: Font
-family ['normal'] not found. Falling back to Bitstream Vera Sans
-  (prop.get\_family(), self.defaultFamily[fontext]))
-\end{alltt}
-
-            \end{InvisibleVerbatim}
-            
-                \begin{InvisibleVerbatim}
-                \vspace{-0.5\baselineskip}
     \begin{center}
-    \includegraphics[max size={\textwidth}{\textheight}]{Final_Report_files/Final_Report_6_1.png}
+    \includegraphics[max size={\textwidth}{\textheight}]{Final_Report_files/Final_Report_6_0.png}
     \par
     \end{center}
     
@@ -433,18 +423,18 @@ We tried to find the dates crises began and ended. We assumed that
 crises began when bubbles were severe. In other words, the highest value
 during a period of time and would be the starting date of crisis. But
 the problem is, the index data is so volatile that there are so many
-maxima. In turn, I rather used smoothing to estimate a general pattern
-to pick the maxima. By k-nearest neighbor method, we estimated local
-maxima and chose the period we were using for further analysis. The plot
-shows the result. Now we can see that it has more smooth shape that we
-can pick maxima and minima.\subsection{Find max and min index}\label{find-max-and-min-index}
+maxima. As a consequence, we rather use smoothing technique to estimate
+a general pattern and then pick the maxima. By k-nearest neighbor
+method, we estimated local maxima and chose the period we were using for
+further analysis. The plot shows the result. Now we can see that it has
+more smooth shape that we can pick maxima and minima.\subsection{Find max and min index}\label{find-max-and-min-index}
 
     % Make sure that atleast 4 lines are below the HR
     \needspace{4\baselineskip}
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}3{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}59{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -527,12 +517,13 @@ can pick maxima and minima.\subsection{Find max and min index}\label{find-max-an
             
         
     
-Based on dates when crises start, we cut off two different eras suppose
-to have different characteristics. The first time period is from Jun
-16th, 2000 to August 10th, 2007. The index during this period is closely
-related to so-called the Dot-com bubble. The comparable period starts
-from August 11th, 2007 to May 2nd, 2011. This is related to the recent
-financial crisis mainly because of serial defaults in subprime mortgate.\subsection{Movements of S\&P 500 Daily
+Based on dates when crises start, we cut off two different eras
+supposedly possessing different characteristics. The first period was
+from Jun 16th, 2000 to August 10th, 2007. The index during this period
+was closely related to so-called the Dot-com bubble. The other period
+started from August 11th, 2007 to May 2nd, 2011. That was related to the
+recent financial crisis mainly because of the serial credit defaults in
+the subprime mortgages.\subsection{Movements of S\&P 500 Daily
 Price}\label{movements-of-sp-500-daily-price}
 
     % Make sure that atleast 4 lines are below the HR
@@ -540,7 +531,7 @@ Price}\label{movements-of-sp-500-daily-price}
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}4{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}60{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -596,10 +587,10 @@ Price}\label{movements-of-sp-500-daily-price}
     
 This plot shows the index during the two partitioned periods. Just
 looking the two periods does not give many intuitive ideas whether they
-are different in some senses, for example, the second period might be
-more volatile than the other. I only can say from this plot that the
-economic cycle are going to be short. In other words, the economy may
-encounter crisis and bubble more frequently than before. We are now
+are different in any senses, for example, the second period might be
+more volatile than the other. We only can claim that from this plot that
+the economic cycle was going to be short. In other words, the economy
+may encounter crisis and bubble more frequently than before. We are now
 using some time series data for further analysis.As we can see form the plot of stock prices, price movement doesn't have
 an apparent pattern. The index really screwed up and hit the buttom
 during the 2008 crisis. After that, it started to go up again. I almost
@@ -620,7 +611,7 @@ one level of difference, d=1, in ARIMA Model.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}5{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}61{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -643,7 +634,7 @@ one level of difference, d=1, in ARIMA Model.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}6{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}62{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -667,7 +658,7 @@ one level of difference, d=1, in ARIMA Model.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}6{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}62{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}<class 'statsmodels.iolib.summary.Summary'>
@@ -683,7 +674,7 @@ Method:                       css-mle   S.D. of innovations
 11.936
 Date:                Fri, 09 May 2014   AIC
 14016.904
-Time:                        02:21:58   BIC
+Time:                        03:19:54   BIC
 14038.877
 Sample:                             0   HQIC
 14025.016
@@ -726,7 +717,7 @@ MA.1           23.5871           +0.0000j           23.5871
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}7{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}63{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -750,7 +741,7 @@ MA.1           23.5871           +0.0000j           23.5871
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}7{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}63{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}<class 'statsmodels.iolib.summary.Summary'>
@@ -766,7 +757,7 @@ Method:                       css-mle   S.D. of innovations
 18.206
 Date:                Fri, 09 May 2014   AIC
 8096.310
-Time:                        02:22:01   BIC
+Time:                        03:19:56   BIC
 8115.677
 Sample:                             1   HQIC
 8103.695
@@ -810,7 +801,7 @@ we are using rpy2 to use some useful packages in R.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}8{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}64{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -825,13 +816,34 @@ we are using rpy2 to use some useful packages in R.
         \end{ColorVerbatim}
     
 
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+\begin{alltt}The rmagic extension is already loaded. To reload it, use:
+  \%reload\_ext rmagic
+\end{alltt}
+
+            \end{InvisibleVerbatim}
+            
+        
+    
+
 
     % Make sure that atleast 4 lines are below the HR
     \needspace{4\baselineskip}
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}9{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}65{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -846,33 +858,13 @@ we are using rpy2 to use some useful packages in R.
         \end{ColorVerbatim}
     
 
-    
-
-        % If the first block is an image, minipage the image.  Else
-        % request a certain amount of space for the input text.
-        \needspace{4\baselineskip}
-        
-        
-
-            % Add document contents.
-            
-                \begin{InvisibleVerbatim}
-                \vspace{-0.5\baselineskip}
-\begin{alltt}--- Please select a CRAN mirror for use in this session ---
-\end{alltt}
-
-            \end{InvisibleVerbatim}
-            
-        
-    
-
 
     % Make sure that atleast 4 lines are below the HR
     \needspace{4\baselineskip}
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}10{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}66{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -885,36 +877,6 @@ we are using rpy2 to use some useful packages in R.
                 \vspace{-0.2\baselineskip}
             
         \end{ColorVerbatim}
-    
-
-    
-
-        % If the first block is an image, minipage the image.  Else
-        % request a certain amount of space for the input text.
-        \needspace{4\baselineskip}
-        
-        
-
-            % Add document contents.
-            
-                \begin{InvisibleVerbatim}
-                \vspace{-0.5\baselineskip}
-\begin{alltt}Loading required package: zoo
-
-Attaching package: ‘zoo’
-
-The following objects are masked from ‘package:base’:
-
-    as.Date, as.Date.numeric
-
-Loading required package: timeDate
-This is forecast 5.2
-
-\end{alltt}
-
-            \end{InvisibleVerbatim}
-            
-        
     
 A list with component ar and/or ma giving the AR and MA coefficients
 respectively. Optionally a component order can be used. An empty list
@@ -938,7 +900,7 @@ background of data.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}11{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}67{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -959,7 +921,7 @@ background of data.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}12{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}68{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -983,10 +945,10 @@ background of data.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}12{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}68{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}[<matplotlib.lines.Line2D at 0x10fd05d90>]\end{alltt}
+\begin{alltt}[<matplotlib.lines.Line2D at 0x1084d3590>]\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -1008,7 +970,7 @@ background of data.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}13{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}69{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1029,7 +991,7 @@ background of data.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}14{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}70{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1053,10 +1015,10 @@ background of data.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}14{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}70{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}[<matplotlib.lines.Line2D at 0x1109a4c50>]\end{alltt}
+\begin{alltt}[<matplotlib.lines.Line2D at 0x111600dd0>]\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -1079,7 +1041,7 @@ arimapre
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}15{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}71{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1132,7 +1094,7 @@ object arimapost
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}16{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}72{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1183,7 +1145,7 @@ Here are plots to forecast from the two models
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}17{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}73{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1265,7 +1227,7 @@ data
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}18{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}74{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1319,14 +1281,6 @@ downloaded 301 Kb
 The downloaded binary packages are in
         /var/folders/vc/r5p1rx6x1275xdrjkcfv2mlc0000gn/T//RtmpAMAR0T/d
 ownloaded\_packages
-
-    ‘tseries’ version: 0.10-32
-
-    ‘tseries’ is a package for time series analysis and computational
-    finance.
-
-    See ‘library(help="tseries")’ for details.
-
 
  ***** ESTIMATION WITH ANALYTICAL GRADIENT *****
 
@@ -1463,7 +1417,7 @@ data
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}19{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}75{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1706,7 +1660,7 @@ SP500 dataframe, and denote it ``Day.''
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}20{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}76{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1749,7 +1703,7 @@ SP500 dataframe, and denote it ``Day.''
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}21{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}77{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1803,9 +1757,7 @@ Close   Day
 
 First of all, we proceed by defining a quantity of interest. Since we
 are interested in the overnight changes, we are interested in the
-overnight returns by days of the week. Denote,
-
-overnight return
+overnight returns by days of the week. Denote overnight return
 $R_{today}= \frac{Next-Trading-Day-Opening}{Today's-Adjusted-Close}$.Therefore, during any given ordinary week without holidays
 (i.e.~non-trading days), we have five overnight returns. Next, we
 defined a function that automates computing the rate of return for any
@@ -1822,7 +1774,7 @@ Thursday, and Friday overnight returns, respectively.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}22{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}78{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1877,7 +1829,7 @@ Thursday, and Friday overnight returns, respectively.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}23{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}79{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -1938,7 +1890,7 @@ Close Day
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}24{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}80{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2040,7 +1992,7 @@ objective.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}25{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}81{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2076,10 +2028,10 @@ objective.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}25{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}81{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}<matplotlib.text.Text at 0x1084cc050>\end{alltt}
+\begin{alltt}<matplotlib.text.Text at 0x1125562d0>\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -2101,7 +2053,7 @@ objective.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}26{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}82{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2134,10 +2086,10 @@ objective.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}26{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}82{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}<matplotlib.legend.Legend at 0x10bf7e390>\end{alltt}
+\begin{alltt}<matplotlib.legend.Legend at 0x10e0c3f10>\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -2159,7 +2111,7 @@ objective.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}27{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}83{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2192,10 +2144,10 @@ objective.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}27{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}83{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}<matplotlib.legend.Legend at 0x110bef8d0>\end{alltt}
+\begin{alltt}<matplotlib.legend.Legend at 0x10e0fd3d0>\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -2217,7 +2169,7 @@ objective.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}28{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}84{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2250,10 +2202,10 @@ objective.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}28{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}84{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}<matplotlib.legend.Legend at 0x110cf2dd0>\end{alltt}
+\begin{alltt}<matplotlib.legend.Legend at 0x10e0b2910>\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -2307,7 +2259,7 @@ Thus, null is mean(Friday) = mean(nonFriday), and inequality otherwise.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}29{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}85{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2359,7 +2311,7 @@ Null: mean(Friday) - mean(nonFriday) = 0, and Alternative: Otherwise.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}30{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}86{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2409,7 +2361,7 @@ Null: mean(Friday) - mean(nonFriday) = 0, and Alternative: Otherwise.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}31{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}87{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2450,7 +2402,7 @@ Null: mean(Friday) - mean(nonFriday) = 0, and Alternative: Otherwise.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}32{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}88{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2498,7 +2450,7 @@ Otherwise.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}33{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}89{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2550,7 +2502,7 @@ our data satisfies.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}34{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}90{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2605,7 +2557,7 @@ our data satisfies.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}35{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}91{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2649,7 +2601,7 @@ our data satisfies.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}36{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}92{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2698,7 +2650,7 @@ Table}\label{statistical-tests-result-table}
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}37{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}93{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2779,7 +2731,7 @@ Hence, we consider Bootstrapping methods thereafter.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}38{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}94{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2825,7 +2777,7 @@ Hence, we consider Bootstrapping methods thereafter.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}39{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}95{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2871,7 +2823,7 @@ Hence, we consider Bootstrapping methods thereafter.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}40{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}96{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2904,10 +2856,10 @@ Hence, we consider Bootstrapping methods thereafter.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}40{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}96{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}<matplotlib.legend.Legend at 0x110cdf810>\end{alltt}
+\begin{alltt}<matplotlib.legend.Legend at 0x110cdf3d0>\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -2929,7 +2881,7 @@ Hence, we consider Bootstrapping methods thereafter.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}41{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}97{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -2970,7 +2922,7 @@ Hence, we consider Bootstrapping methods thereafter.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}42{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}98{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3022,7 +2974,7 @@ perfectly resembled each other, as well as the colors blended.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}43{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}99{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3069,10 +3021,10 @@ perfectly resembled each other, as well as the colors blended.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}43{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}99{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}<matplotlib.legend.Legend at 0x110e2ac50>\end{alltt}
+\begin{alltt}<matplotlib.legend.Legend at 0x10e08e350>\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -3094,7 +3046,7 @@ perfectly resembled each other, as well as the colors blended.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}44{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}100{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3139,10 +3091,10 @@ perfectly resembled each other, as well as the colors blended.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}44{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}100{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}<matplotlib.legend.Legend at 0x110cd7c10>\end{alltt}
+\begin{alltt}<matplotlib.legend.Legend at 0x10e09f350>\end{alltt}
 
             \end{InvisibleVerbatim}
             
@@ -3172,7 +3124,7 @@ be normal, which they are.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}46{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}101{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3192,7 +3144,7 @@ be normal, which they are.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}47{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}102{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3231,8 +3183,8 @@ be normal, which they are.
             
                 \begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}('Monte Carlo Bootstrapping with mean', 0.99996461115254487,
-'variance', 3.8747841369602136e-07)
+\begin{alltt}('Monte Carlo Bootstrapping with mean', 0.99996463454836415,
+'variance', 3.9317659582286139e-07)
 \end{alltt}
 
             \end{InvisibleVerbatim}
@@ -3246,7 +3198,7 @@ be normal, which they are.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}48{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}103{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3270,29 +3222,29 @@ be normal, which they are.
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}48{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}103{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}(array([   21374.60332826,    10687.30166413,    21374.60335362,
-         106873.0166413 ,   245807.93827499,   277869.84326738,
-         331306.35158803,   555739.68719416,   726736.51316084,
-         854984.1331304 ,   833609.52980214,  1025980.95975647,
-         961857.15091297,   865671.43479453,   897733.33978692,
-         801547.62480975,   716049.21149671,   512990.48048692,
-         267182.54160325,   235120.63661086,   181684.12829021,
-         138934.92163369,    64123.81006086,    10687.30166413,
-          21374.60332826]),
- array([ 0.99996345,  0.99996354,  0.99996364,  0.99996373,
-0.99996383,
-        0.99996392,  0.99996401,  0.99996411,  0.9999642 ,
-0.99996429,
-        0.99996439,  0.99996448,  0.99996457,  0.99996467,
-0.99996476,
-        0.99996485,  0.99996495,  0.99996504,  0.99996514,
-0.99996523,
-        0.99996532,  0.99996542,  0.99996551,  0.9999656 ,  0.9999657
-,
-        0.99996579]),
+\begin{alltt}(array([    9319.26375747,    18638.52751494,    27957.79127242,
+          55915.58254483,    65234.8463698 ,   130469.69260461,
+         214343.06642187,   419366.86908626,   559155.82544835,
+         726902.57308285,   941245.63950472,  1081034.5958668 ,
+        1108992.38828663,   792137.41938516,   792137.41938516,
+         605752.14423571,   633709.93550813,   521878.77041846,
+         279577.91272417,   149108.22011956,    83873.37390403,
+          46596.31878736,    46596.31878736,        0.        ,
+           9319.26375747]),
+ array([ 0.99996329,  0.9999634 ,  0.9999635 ,  0.99996361,
+0.99996372,
+        0.99996382,  0.99996393,  0.99996404,  0.99996415,
+0.99996425,
+        0.99996436,  0.99996447,  0.99996458,  0.99996468,
+0.99996479,
+        0.9999649 ,  0.999965  ,  0.99996511,  0.99996522,
+0.99996533,
+        0.99996543,  0.99996554,  0.99996565,  0.99996576,
+0.99996586,
+        0.99996597]),
  <a list of 25 Patch objects>)\end{alltt}
 
             \end{InvisibleVerbatim}
@@ -3315,7 +3267,7 @@ be normal, which they are.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}49{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}104{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3393,7 +3345,7 @@ be normal, which they are.
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}51{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}105{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3473,7 +3425,7 @@ To better understand the following plots, notice that
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}53{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}106{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}
@@ -3526,7 +3478,7 @@ To better understand the following plots, notice that
 
     
         \vspace{6pt}
-        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}55{]}:\hspace{4pt}}\\*
+        \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-in-prompt}In\hspace{4pt}{[}107{]}:\hspace{4pt}}\\*
         \vspace{-2.65\baselineskip}
         \begin{ColorVerbatim}
             \vspace{-0.7\baselineskip}

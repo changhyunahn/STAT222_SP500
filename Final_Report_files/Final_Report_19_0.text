@@ -6,7 +6,7 @@ Dep. Variable:                    D.y   No. Observations:                  936
 Model:                 ARIMA(1, 1, 1)   Log Likelihood               -4044.155
 Method:                       css-mle   S.D. of innovations             18.206
 Date:                Fri, 09 May 2014   AIC                           8096.310
-Time:                        02:22:01   BIC                           8115.677
+Time:                        03:19:56   BIC                           8115.677
 Sample:                             1   HQIC                          8103.695
                                                                               
 ==============================================================================

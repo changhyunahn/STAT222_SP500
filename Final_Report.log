@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  9 MAY 2014 02:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  9 MAY 2014 03:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1641,32 +1641,32 @@ Package xcolor Warning: Incompatible color definition on input line 237.
 Package xcolor Warning: Incompatible color definition on input line 237.
 
 
-Package xcolor Warning: Incompatible color definition on input line 271.
+Package xcolor Warning: Incompatible color definition on input line 270.
 
 
-Package xcolor Warning: Incompatible color definition on input line 271.
+Package xcolor Warning: Incompatible color definition on input line 270.
 
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 271.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 270.
 
-Package xcolor Warning: Incompatible color definition on input line 271.
+Package xcolor Warning: Incompatible color definition on input line 270.
 
 
-Package xcolor Warning: Incompatible color definition on input line 271.
+Package xcolor Warning: Incompatible color definition on input line 270.
 
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 278.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 277.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 280.
+(mdframed)             works with oneside mode on input line 279.
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9.5> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 283.
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 282.
  [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 315.
+(mdframed)             works with oneside mode on input line 314.
 
 
 Package xcolor Warning: Incompatible color definition on input line 343.
@@ -1679,639 +1679,622 @@ Package mdframed Info: mdframed inside twoside mode but
 [2]
 Package mdframed Info: mdframed inside twoside mode but
 (mdframed)             works with oneside mode on input line 411.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 421.
- <Final_Report_files/Final_Report_6_1.png, id=40, 420.57124pt x 297.11pt>
-File: Final_Report_files/Final_Report_6_1.png Graphic file (type png)
+ <Final_Report_files/Final_Report_6_0.png, id=144, 420.57124pt x 297.11pt>
+File: Final_Report_files/Final_Report_6_0.png Graphic file (type png)
 
-<use Final_Report_files/Final_Report_6_1.png>
-Package pdftex.def Info: Final_Report_files/Final_Report_6_1.png used on input 
-line 424.
+<use Final_Report_files/Final_Report_6_0.png>
+Package pdftex.def Info: Final_Report_files/Final_Report_6_0.png used on input 
+line 414.
 (pdftex.def)             Requested size: 420.57022pt x 297.10927pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 440.
+Package xcolor Warning: Incompatible color definition on input line 430.
 
 
-Package xcolor Warning: Incompatible color definition on input line 440.
+Package xcolor Warning: Incompatible color definition on input line 430.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 449.
-[3 <./Final_Report_files/Final_Report_6_1.png>]
+(mdframed)             works with oneside mode on input line 439.
+[3 <./Final_Report_files/Final_Report_6_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 519.
+(mdframed)             works with oneside mode on input line 509.
 
-<Final_Report_files/Final_Report_9_0.png, id=48, 420.57124pt x 297.11pt>
+<Final_Report_files/Final_Report_9_0.png, id=151, 420.57124pt x 297.11pt>
 File: Final_Report_files/Final_Report_9_0.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_9_0.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_9_0.png used on input 
-line 522.
+line 512.
 (pdftex.def)             Requested size: 420.57022pt x 297.10927pt.
+ [4 <./Final_Report_files/Final_Report_9_0.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 527.
 
 
-Package mdframed Warning: You got a bad break
-(mdframed)                because the last box will be empty
-(mdframed)                you have to change it manually
-(mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 526.
-
-[4]
-
-Package xcolor Warning: Incompatible color definition on input line 536.
-
-
-Package xcolor Warning: Incompatible color definition on input line 536.
+Package xcolor Warning: Incompatible color definition on input line 527.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 545.
-[5 <./Final_Report_files/Final_Report_9_0.png>]
+(mdframed)             works with oneside mode on input line 536.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 586.
-
-<Final_Report_files/Final_Report_12_0.png, id=59, 419.5675pt x 297.11pt>
+(mdframed)             works with oneside mode on input line 577.
+<Final_Report_files/Final_Report_12_0.png, id=157, 419.5675pt x 297.11pt>
 File: Final_Report_files/Final_Report_12_0.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_12_0.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_12_0.png used on input
- line 589.
+ line 580.
 (pdftex.def)             Requested size: 419.56647pt x 297.10927pt.
+ [5 <./Final_Report_files/Final_Report_12_0.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 600.
 
 
-Package xcolor Warning: Incompatible color definition on input line 609.
-
-
-Package xcolor Warning: Incompatible color definition on input line 609.
+Package xcolor Warning: Incompatible color definition on input line 600.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 625.
+(mdframed)             works with oneside mode on input line 616.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 648.
+(mdframed)             works with oneside mode on input line 639.
 LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9.5> not available
-(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 651.
-[6 <./Final_Report_files/Final_Report_12_0.png>]
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 642.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 671.
+(mdframed)             works with oneside mode on input line 662.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 676--676
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 667--667
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 691--691
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 682--682
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
+ []
+
+
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 686--686
+[]\T1/pcr/m/n/10 --------------------------------------------------------------
+--------[] 
  []
 
 
 Overfull \hbox (4.02335pt too wide) in paragraph at lines 695--695
-[]\T1/pcr/m/n/10 --------------------------------------------------------------
---------[] 
- []
-
-
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 704--704
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 708--708
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 699--699
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 714--714
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 705--705
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
+[6]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 731.
+(mdframed)             works with oneside mode on input line 722.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 754.
+(mdframed)             works with oneside mode on input line 745.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 759--759
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 750--750
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 774--774
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 765--765
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
+ []
+
+
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 769--769
+[]\T1/pcr/m/n/10 --------------------------------------------------------------
+--------[] 
  []
 
 
 Overfull \hbox (4.02335pt too wide) in paragraph at lines 778--778
-[]\T1/pcr/m/n/10 --------------------------------------------------------------
---------[] 
- []
-
-
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 787--787
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 791--791
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 782--782
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 797--797
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 788--788
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 [7]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 815.
+(mdframed)             works with oneside mode on input line 806.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 836.
+(mdframed)             works with oneside mode on input line 829.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 859.
- [8]
+(mdframed)             works with oneside mode on input line 848.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 877.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 900.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-
-Package xcolor Warning: Incompatible color definition on input line 930.
+(mdframed)             works with oneside mode on input line 869.
 
 
-Package xcolor Warning: Incompatible color definition on input line 930.
+Package xcolor Warning: Incompatible color definition on input line 892.
+
+
+Package xcolor Warning: Incompatible color definition on input line 892.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 943.
+(mdframed)             works with oneside mode on input line 905.
 
-Overfull \hbox (99.22308pt too wide) in paragraph at lines 947--947
+Overfull \hbox (99.22308pt too wide) in paragraph at lines 909--909
 []\T1/pcr/m/n/9.5 presim []<[][]-[] []\T1/pcr/b/n/9.5 as[][]\T1/pcr/m/n/9.5 .[]
 vector(arima[].[]sim([]list[](order []=[] c([]1[],[]0[],[]1[]), ar []=[] []0.99
 83[], ma []=[] []-[][]0.0424[]), n []=[] []200[]))[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 964.
+(mdframed)             works with oneside mode on input line 926.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 987.
+(mdframed)             works with oneside mode on input line 949.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 993.
-<Final_Report_files/Final_Report_28_1.png, id=76, 390.45876pt x 261.97874pt>
+(mdframed)             works with oneside mode on input line 955.
+<Final_Report_files/Final_Report_28_1.png, id=173, 382.42876pt x 261.97874pt>
 File: Final_Report_files/Final_Report_28_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_28_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_28_1.png used on input
- line 996.
-(pdftex.def)             Requested size: 390.4578pt x 261.9781pt.
+ line 958.
+(pdftex.def)             Requested size: 382.42781pt x 261.9781pt.
 
-Overfull \vbox (80.24976pt too high) detected at line 1000
+Overfull \vbox (154.49718pt too high) detected at line 962
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 1000.
+(mdframed)              on input line 962.
 
-Overfull \vbox (81.24976pt too high) detected at line 1000
+Overfull \vbox (155.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (82.24976pt too high) detected at line 1000
+Overfull \vbox (156.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (83.24976pt too high) detected at line 1000
+Overfull \vbox (157.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (84.24976pt too high) detected at line 1000
+Overfull \vbox (158.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (85.24976pt too high) detected at line 1000
+Overfull \vbox (159.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (86.24976pt too high) detected at line 1000
+Overfull \vbox (160.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (87.24976pt too high) detected at line 1000
+Overfull \vbox (161.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (88.24976pt too high) detected at line 1000
+Overfull \vbox (162.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (89.24976pt too high) detected at line 1000
+Overfull \vbox (163.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (90.24976pt too high) detected at line 1000
+Overfull \vbox (164.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (91.24976pt too high) detected at line 1000
+Overfull \vbox (165.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (92.24976pt too high) detected at line 1000
+Overfull \vbox (166.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (93.24976pt too high) detected at line 1000
+Overfull \vbox (167.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (94.24976pt too high) detected at line 1000
+Overfull \vbox (168.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (95.24976pt too high) detected at line 1000
+Overfull \vbox (169.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (96.24976pt too high) detected at line 1000
+Overfull \vbox (170.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (97.24976pt too high) detected at line 1000
+Overfull \vbox (171.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (98.24976pt too high) detected at line 1000
+Overfull \vbox (172.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (99.24976pt too high) detected at line 1000
+Overfull \vbox (173.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (100.24976pt too high) detected at line 1000
+Overfull \vbox (174.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (101.24976pt too high) detected at line 1000
+Overfull \vbox (175.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (102.24976pt too high) detected at line 1000
+Overfull \vbox (176.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (103.24976pt too high) detected at line 1000
+Overfull \vbox (177.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (104.24976pt too high) detected at line 1000
+Overfull \vbox (178.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (105.24976pt too high) detected at line 1000
+Overfull \vbox (179.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (106.24976pt too high) detected at line 1000
+Overfull \vbox (180.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (107.24976pt too high) detected at line 1000
+Overfull \vbox (181.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (108.24976pt too high) detected at line 1000
+Overfull \vbox (182.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (109.24976pt too high) detected at line 1000
+Overfull \vbox (183.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (110.24976pt too high) detected at line 1000
+Overfull \vbox (184.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (111.24976pt too high) detected at line 1000
+Overfull \vbox (185.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (112.24976pt too high) detected at line 1000
+Overfull \vbox (186.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (113.24976pt too high) detected at line 1000
+Overfull \vbox (187.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (114.24976pt too high) detected at line 1000
+Overfull \vbox (188.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (115.24976pt too high) detected at line 1000
+Overfull \vbox (189.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (116.24976pt too high) detected at line 1000
+Overfull \vbox (190.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (117.24976pt too high) detected at line 1000
+Overfull \vbox (191.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (118.24976pt too high) detected at line 1000
+Overfull \vbox (192.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (119.24976pt too high) detected at line 1000
+Overfull \vbox (193.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (120.24976pt too high) detected at line 1000
+Overfull \vbox (194.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (121.24976pt too high) detected at line 1000
+Overfull \vbox (195.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (122.24976pt too high) detected at line 1000
+Overfull \vbox (196.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (123.24976pt too high) detected at line 1000
+Overfull \vbox (197.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (124.24976pt too high) detected at line 1000
+Overfull \vbox (198.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (125.24976pt too high) detected at line 1000
+Overfull \vbox (199.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (126.24976pt too high) detected at line 1000
+Overfull \vbox (200.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (127.24976pt too high) detected at line 1000
+Overfull \vbox (201.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (128.24976pt too high) detected at line 1000
+Overfull \vbox (202.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (129.24976pt too high) detected at line 1000
+Overfull \vbox (203.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (130.24976pt too high) detected at line 1000
+Overfull \vbox (204.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (131.24976pt too high) detected at line 1000
+Overfull \vbox (205.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (132.24976pt too high) detected at line 1000
+Overfull \vbox (206.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (133.24976pt too high) detected at line 1000
+Overfull \vbox (207.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (134.24976pt too high) detected at line 1000
+Overfull \vbox (208.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (135.24976pt too high) detected at line 1000
+Overfull \vbox (209.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (136.24976pt too high) detected at line 1000
+Overfull \vbox (210.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (137.24976pt too high) detected at line 1000
+Overfull \vbox (211.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (138.24976pt too high) detected at line 1000
+Overfull \vbox (212.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (139.24976pt too high) detected at line 1000
+Overfull \vbox (213.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (140.24976pt too high) detected at line 1000
+Overfull \vbox (214.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (141.24976pt too high) detected at line 1000
+Overfull \vbox (215.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (142.24976pt too high) detected at line 1000
+Overfull \vbox (216.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (143.24976pt too high) detected at line 1000
+Overfull \vbox (217.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (144.24976pt too high) detected at line 1000
+Overfull \vbox (218.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (145.24976pt too high) detected at line 1000
+Overfull \vbox (219.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (146.24976pt too high) detected at line 1000
+Overfull \vbox (220.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (147.24976pt too high) detected at line 1000
+Overfull \vbox (221.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (148.24976pt too high) detected at line 1000
+Overfull \vbox (222.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (149.24976pt too high) detected at line 1000
+Overfull \vbox (223.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (150.24976pt too high) detected at line 1000
+Overfull \vbox (224.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (151.24976pt too high) detected at line 1000
+Overfull \vbox (225.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (152.24976pt too high) detected at line 1000
+Overfull \vbox (226.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (153.24976pt too high) detected at line 1000
+Overfull \vbox (227.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (154.24976pt too high) detected at line 1000
+Overfull \vbox (228.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (155.24976pt too high) detected at line 1000
+Overfull \vbox (229.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (156.24976pt too high) detected at line 1000
+Overfull \vbox (230.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (157.24976pt too high) detected at line 1000
+Overfull \vbox (231.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (158.24976pt too high) detected at line 1000
+Overfull \vbox (232.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (159.24976pt too high) detected at line 1000
+Overfull \vbox (233.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (160.24976pt too high) detected at line 1000
+Overfull \vbox (234.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (161.24976pt too high) detected at line 1000
+Overfull \vbox (235.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (162.24976pt too high) detected at line 1000
+Overfull \vbox (236.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (163.24976pt too high) detected at line 1000
+Overfull \vbox (237.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (164.24976pt too high) detected at line 1000
+Overfull \vbox (238.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (165.24976pt too high) detected at line 1000
+Overfull \vbox (239.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (166.24976pt too high) detected at line 1000
+Overfull \vbox (240.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (167.24976pt too high) detected at line 1000
+Overfull \vbox (241.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (168.24976pt too high) detected at line 1000
+Overfull \vbox (242.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (169.24976pt too high) detected at line 1000
+Overfull \vbox (243.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (170.24976pt too high) detected at line 1000
+Overfull \vbox (244.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (171.24976pt too high) detected at line 1000
+Overfull \vbox (245.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (172.24976pt too high) detected at line 1000
+Overfull \vbox (246.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (173.24976pt too high) detected at line 1000
+Overfull \vbox (247.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (174.24976pt too high) detected at line 1000
+Overfull \vbox (248.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (175.24976pt too high) detected at line 1000
+Overfull \vbox (249.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (176.24976pt too high) detected at line 1000
+Overfull \vbox (250.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (177.24976pt too high) detected at line 1000
+Overfull \vbox (251.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (178.24976pt too high) detected at line 1000
+Overfull \vbox (252.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (179.24976pt too high) detected at line 1000
+Overfull \vbox (253.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (180.24976pt too high) detected at line 1000
+Overfull \vbox (254.49718pt too high) detected at line 962
  []
 
 
-Overfull \vbox (181.24976pt too high) detected at line 1000
+Overfull \vbox (255.49718pt too high) detected at line 962
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 1000.
+(mdframed)                 on input line 962.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 1000.
-[9]
+(mdframed)              on input line 962.
+[8]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1013.
+(mdframed)             works with oneside mode on input line 975.
 
-Overfull \hbox (104.92308pt too wide) in paragraph at lines 1017--1017
+Overfull \hbox (104.92308pt too wide) in paragraph at lines 979--979
 []\T1/pcr/m/n/9.5 postsim []<[][]-[] []\T1/pcr/b/n/9.5 as[][]\T1/pcr/m/n/9.5 .[
 ]vector(arima[].[]sim([]list[](order []=[] c([]1[],[]1[],[]1[]), ar []=[] []0.2
 611[], ma []=[] []-[][]0.4135[]), n []=[] []200[]))[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1034.
+(mdframed)             works with oneside mode on input line 996.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1057.
+(mdframed)             works with oneside mode on input line 1019.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1063.
-<Final_Report_files/Final_Report_30_1.png, id=82, 390.45876pt x 261.97874pt>
+(mdframed)             works with oneside mode on input line 1025.
+<Final_Report_files/Final_Report_30_1.png, id=178, 390.45876pt x 261.97874pt>
 File: Final_Report_files/Final_Report_30_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_30_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_30_1.png used on input
- line 1066.
+ line 1028.
 (pdftex.def)             Requested size: 390.4578pt x 261.9781pt.
 
 
@@ -2319,641 +2302,641 @@ Package mdframed Warning: You got a bad break
 (mdframed)                because the last box will be empty
 (mdframed)                you have to change it manually
 (mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 1070.
+(mdframed)                or something else on input line 1032.
 
 
-Overfull \vbox (20.6371pt too high) detected at line 1070
+Overfull \vbox (20.6371pt too high) detected at line 1032
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 1070.
+(mdframed)              on input line 1032.
 
-Overfull \vbox (21.6371pt too high) detected at line 1070
+Overfull \vbox (21.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (22.6371pt too high) detected at line 1070
+Overfull \vbox (22.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (23.6371pt too high) detected at line 1070
+Overfull \vbox (23.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (24.6371pt too high) detected at line 1070
+Overfull \vbox (24.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (25.6371pt too high) detected at line 1070
+Overfull \vbox (25.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (26.6371pt too high) detected at line 1070
+Overfull \vbox (26.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (27.6371pt too high) detected at line 1070
+Overfull \vbox (27.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (28.6371pt too high) detected at line 1070
+Overfull \vbox (28.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (29.6371pt too high) detected at line 1070
+Overfull \vbox (29.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (30.6371pt too high) detected at line 1070
+Overfull \vbox (30.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (31.6371pt too high) detected at line 1070
+Overfull \vbox (31.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (32.6371pt too high) detected at line 1070
+Overfull \vbox (32.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (33.6371pt too high) detected at line 1070
+Overfull \vbox (33.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (34.6371pt too high) detected at line 1070
+Overfull \vbox (34.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (35.6371pt too high) detected at line 1070
+Overfull \vbox (35.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (36.6371pt too high) detected at line 1070
+Overfull \vbox (36.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (37.6371pt too high) detected at line 1070
+Overfull \vbox (37.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (38.6371pt too high) detected at line 1070
+Overfull \vbox (38.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (39.6371pt too high) detected at line 1070
+Overfull \vbox (39.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (40.6371pt too high) detected at line 1070
+Overfull \vbox (40.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (41.6371pt too high) detected at line 1070
+Overfull \vbox (41.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (42.6371pt too high) detected at line 1070
+Overfull \vbox (42.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (43.6371pt too high) detected at line 1070
+Overfull \vbox (43.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (44.6371pt too high) detected at line 1070
+Overfull \vbox (44.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (45.6371pt too high) detected at line 1070
+Overfull \vbox (45.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (46.6371pt too high) detected at line 1070
+Overfull \vbox (46.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (47.6371pt too high) detected at line 1070
+Overfull \vbox (47.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (48.6371pt too high) detected at line 1070
+Overfull \vbox (48.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (49.6371pt too high) detected at line 1070
+Overfull \vbox (49.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (50.6371pt too high) detected at line 1070
+Overfull \vbox (50.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (51.6371pt too high) detected at line 1070
+Overfull \vbox (51.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (52.6371pt too high) detected at line 1070
+Overfull \vbox (52.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (53.6371pt too high) detected at line 1070
+Overfull \vbox (53.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (54.6371pt too high) detected at line 1070
+Overfull \vbox (54.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (55.6371pt too high) detected at line 1070
+Overfull \vbox (55.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (56.6371pt too high) detected at line 1070
+Overfull \vbox (56.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (57.6371pt too high) detected at line 1070
+Overfull \vbox (57.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (58.6371pt too high) detected at line 1070
+Overfull \vbox (58.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (59.6371pt too high) detected at line 1070
+Overfull \vbox (59.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (60.6371pt too high) detected at line 1070
+Overfull \vbox (60.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (61.6371pt too high) detected at line 1070
+Overfull \vbox (61.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (62.6371pt too high) detected at line 1070
+Overfull \vbox (62.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (63.6371pt too high) detected at line 1070
+Overfull \vbox (63.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (64.6371pt too high) detected at line 1070
+Overfull \vbox (64.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (65.6371pt too high) detected at line 1070
+Overfull \vbox (65.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (66.6371pt too high) detected at line 1070
+Overfull \vbox (66.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (67.6371pt too high) detected at line 1070
+Overfull \vbox (67.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (68.6371pt too high) detected at line 1070
+Overfull \vbox (68.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (69.6371pt too high) detected at line 1070
+Overfull \vbox (69.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (70.6371pt too high) detected at line 1070
+Overfull \vbox (70.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (71.6371pt too high) detected at line 1070
+Overfull \vbox (71.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (72.6371pt too high) detected at line 1070
+Overfull \vbox (72.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (73.6371pt too high) detected at line 1070
+Overfull \vbox (73.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (74.6371pt too high) detected at line 1070
+Overfull \vbox (74.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (75.6371pt too high) detected at line 1070
+Overfull \vbox (75.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (76.6371pt too high) detected at line 1070
+Overfull \vbox (76.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (77.6371pt too high) detected at line 1070
+Overfull \vbox (77.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (78.6371pt too high) detected at line 1070
+Overfull \vbox (78.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (79.6371pt too high) detected at line 1070
+Overfull \vbox (79.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (80.6371pt too high) detected at line 1070
+Overfull \vbox (80.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (81.6371pt too high) detected at line 1070
+Overfull \vbox (81.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (82.6371pt too high) detected at line 1070
+Overfull \vbox (82.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (83.6371pt too high) detected at line 1070
+Overfull \vbox (83.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (84.6371pt too high) detected at line 1070
+Overfull \vbox (84.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (85.6371pt too high) detected at line 1070
+Overfull \vbox (85.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (86.6371pt too high) detected at line 1070
+Overfull \vbox (86.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (87.6371pt too high) detected at line 1070
+Overfull \vbox (87.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (88.6371pt too high) detected at line 1070
+Overfull \vbox (88.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (89.6371pt too high) detected at line 1070
+Overfull \vbox (89.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (90.6371pt too high) detected at line 1070
+Overfull \vbox (90.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (91.6371pt too high) detected at line 1070
+Overfull \vbox (91.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (92.6371pt too high) detected at line 1070
+Overfull \vbox (92.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (93.6371pt too high) detected at line 1070
+Overfull \vbox (93.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (94.6371pt too high) detected at line 1070
+Overfull \vbox (94.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (95.6371pt too high) detected at line 1070
+Overfull \vbox (95.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (96.6371pt too high) detected at line 1070
+Overfull \vbox (96.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (97.6371pt too high) detected at line 1070
+Overfull \vbox (97.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (98.6371pt too high) detected at line 1070
+Overfull \vbox (98.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (99.6371pt too high) detected at line 1070
+Overfull \vbox (99.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (100.6371pt too high) detected at line 1070
+Overfull \vbox (100.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (101.6371pt too high) detected at line 1070
+Overfull \vbox (101.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (102.6371pt too high) detected at line 1070
+Overfull \vbox (102.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (103.6371pt too high) detected at line 1070
+Overfull \vbox (103.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (104.6371pt too high) detected at line 1070
+Overfull \vbox (104.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (105.6371pt too high) detected at line 1070
+Overfull \vbox (105.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (106.6371pt too high) detected at line 1070
+Overfull \vbox (106.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (107.6371pt too high) detected at line 1070
+Overfull \vbox (107.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (108.6371pt too high) detected at line 1070
+Overfull \vbox (108.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (109.6371pt too high) detected at line 1070
+Overfull \vbox (109.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (110.6371pt too high) detected at line 1070
+Overfull \vbox (110.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (111.6371pt too high) detected at line 1070
+Overfull \vbox (111.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (112.6371pt too high) detected at line 1070
+Overfull \vbox (112.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (113.6371pt too high) detected at line 1070
+Overfull \vbox (113.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (114.6371pt too high) detected at line 1070
+Overfull \vbox (114.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (115.6371pt too high) detected at line 1070
+Overfull \vbox (115.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (116.6371pt too high) detected at line 1070
+Overfull \vbox (116.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (117.6371pt too high) detected at line 1070
+Overfull \vbox (117.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (118.6371pt too high) detected at line 1070
+Overfull \vbox (118.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (119.6371pt too high) detected at line 1070
+Overfull \vbox (119.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (120.6371pt too high) detected at line 1070
+Overfull \vbox (120.6371pt too high) detected at line 1032
  []
 
 
-Overfull \vbox (121.6371pt too high) detected at line 1070
+Overfull \vbox (121.6371pt too high) detected at line 1032
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 1070.
+(mdframed)                 on input line 1032.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 1070.
-[10 <./Final_Report_files/Final_Report_28_1.png>]
+(mdframed)              on input line 1032.
+[9 <./Final_Report_files/Final_Report_28_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1084.
+(mdframed)             works with oneside mode on input line 1046.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1109.
+(mdframed)             works with oneside mode on input line 1071.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1137.
+(mdframed)             works with oneside mode on input line 1099.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1161.
- [11 <./Final_Report_files/Final_Report_30_1.png>]
+(mdframed)             works with oneside mode on input line 1123.
+ [10 <./Final_Report_files/Final_Report_30_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1188.
+(mdframed)             works with oneside mode on input line 1150.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1213.
+(mdframed)             works with oneside mode on input line 1175.
 
-<Final_Report_files/Final_Report_36_0.png, id=93, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_36_0.png, id=189, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_36_0.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_36_0.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_36_0.png used on input
- line 1216.
+ line 1178.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1222.
+(mdframed)             works with oneside mode on input line 1184.
 
-<Final_Report_files/Final_Report_36_1.png, id=94, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_36_1.png, id=190, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_36_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_36_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_36_1.png used on input
- line 1225.
+ line 1187.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [12 <./Final_Report_files/Final_Report_36_0.png>]
+ [11 <./Final_Report_files/Final_Report_36_0.png>]
 
-Package xcolor Warning: Incompatible color definition on input line 1239.
+Package xcolor Warning: Incompatible color definition on input line 1201.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1239.
+Package xcolor Warning: Incompatible color definition on input line 1201.
 
-[13 <./Final_Report_files/Final_Report_36_1.png>]
+[12 <./Final_Report_files/Final_Report_36_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1270.
+(mdframed)             works with oneside mode on input line 1232.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1299.
+(mdframed)             works with oneside mode on input line 1261.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1309.
+(mdframed)             works with oneside mode on input line 1271.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 1311--1311
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1273--1273
 []\T1/pcr/m/n/10 trying URL 'http://cran.cnr.Berkeley.edu/bin/macosx/contrib/3.
 0/tserie 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 1320--1320
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1282--1282
 []        \T1/pcr/m/n/10 /var/folders/vc/r5p1rx6x1275xdrjkcfv2mlc0000gn/T//Rtmp
 AMAR0T/d[] 
  []
 
-[14] [15]
+[13] [14]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1420.
+(mdframed)             works with oneside mode on input line 1374.
 
-<Final_Report_files/Final_Report_41_2.png, id=115, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_41_2.png, id=211, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_41_2.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_41_2.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_41_2.png used on input
- line 1423.
+ line 1377.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1429.
+(mdframed)             works with oneside mode on input line 1383.
 
-<Final_Report_files/Final_Report_41_3.png, id=116, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_41_3.png, id=212, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_41_3.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_41_3.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_41_3.png used on input
- line 1432.
+ line 1386.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [16 <./Final_Report_files/Final_Report_41_2.png>]
+ [15 <./Final_Report_files/Final_Report_41_2.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1438.
+(mdframed)             works with oneside mode on input line 1392.
 
-<Final_Report_files/Final_Report_41_4.png, id=122, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_41_4.png, id=218, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_41_4.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_41_4.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_41_4.png used on input
- line 1441.
+ line 1395.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [17 <./Final_Report_files/Final_Report_41_3.png>]
+ [16 <./Final_Report_files/Final_Report_41_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1447.
+(mdframed)             works with oneside mode on input line 1401.
 
-<Final_Report_files/Final_Report_41_5.png, id=128, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_41_5.png, id=224, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_41_5.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_41_5.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_41_5.png used on input
- line 1450.
+ line 1404.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [18 <./Final_Report_files/Final_Report_41_4.png>]
+ [17 <./Final_Report_files/Final_Report_41_4.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1468.
+(mdframed)             works with oneside mode on input line 1422.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1495.
+(mdframed)             works with oneside mode on input line 1449.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1505.
- [19 <./Final_Report_files/Final_Report_41_5.png>] [20]
+(mdframed)             works with oneside mode on input line 1459.
+ [18 <./Final_Report_files/Final_Report_41_5.png>] [19]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1589.
+(mdframed)             works with oneside mode on input line 1543.
 
-<Final_Report_files/Final_Report_43_2.png, id=144, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_43_2.png, id=240, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_43_2.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_43_2.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_43_2.png used on input
- line 1592.
+ line 1546.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1598.
+(mdframed)             works with oneside mode on input line 1552.
 
-<Final_Report_files/Final_Report_43_3.png, id=145, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_43_3.png, id=241, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_43_3.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_43_3.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_43_3.png used on input
- line 1601.
+ line 1555.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [21 <./Final_Report_files/Final_Report_43_2.png>]
+ [20 <./Final_Report_files/Final_Report_43_2.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1607.
+(mdframed)             works with oneside mode on input line 1561.
 
-<Final_Report_files/Final_Report_43_4.png, id=151, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_43_4.png, id=247, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_43_4.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_43_4.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_43_4.png used on input
- line 1610.
+ line 1564.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [22 <./Final_Report_files/Final_Report_43_3.png>]
+ [21 <./Final_Report_files/Final_Report_43_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1616.
+(mdframed)             works with oneside mode on input line 1570.
 
-<Final_Report_files/Final_Report_43_5.png, id=157, 481.8pt x 481.8pt>
+<Final_Report_files/Final_Report_43_5.png, id=253, 481.8pt x 481.8pt>
 File: Final_Report_files/Final_Report_43_5.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_43_5.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_43_5.png used on input
- line 1619.
+ line 1573.
 (pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [23 <./Final_Report_files/Final_Report_43_4.png>]
+ [22 <./Final_Report_files/Final_Report_43_4.png>]
 
-Package xcolor Warning: Incompatible color definition on input line 1627.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1627.
-
-[24 <./Final_Report_files/Final_Report_43_5.png>]
-
-Package xcolor Warning: Incompatible color definition on input line 1652.
+Package xcolor Warning: Incompatible color definition on input line 1581.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1652.
+Package xcolor Warning: Incompatible color definition on input line 1581.
+
+[23 <./Final_Report_files/Final_Report_43_5.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 1606.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1657.
+Package xcolor Warning: Incompatible color definition on input line 1606.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1657.
+Package xcolor Warning: Incompatible color definition on input line 1611.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1665.
+Package xcolor Warning: Incompatible color definition on input line 1611.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1665.
+Package xcolor Warning: Incompatible color definition on input line 1619.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1683.
+Package xcolor Warning: Incompatible color definition on input line 1619.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1683.
+Package xcolor Warning: Incompatible color definition on input line 1637.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1683.
+Package xcolor Warning: Incompatible color definition on input line 1637.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1683.
+Package xcolor Warning: Incompatible color definition on input line 1637.
 
+
+Package xcolor Warning: Incompatible color definition on input line 1637.
+
+[24]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1665.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1690.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1708.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1734.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1756.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1756.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1779.
 [25]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1711.
+(mdframed)             works with oneside mode on input line 1815.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1736.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1754.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1780.
+(mdframed)             works with oneside mode on input line 1834.
 
-
-Package xcolor Warning: Incompatible color definition on input line 1802.
-
-
-Package xcolor Warning: Incompatible color definition on input line 1802.
-
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1827.
-[26]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1863.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1882.
-
-Overfull \hbox (344.32295pt too wide) in paragraph at lines 1891--1891
+Overfull \hbox (344.32295pt too wide) in paragraph at lines 1843--1843
 []    \T1/pcr/m/n/9.5 SP500[[]'[][]Day[][]'[]][i] []=[] datetime[].[]date([]int
 [](SP500[[]'[][]Date[][]'[]][i][[]0[]:[]4[]]), []int[](SP500[[]'[][]Date[][]'[]
 ][i][[]5[]:[]7[]]), []int[](SP500[[]'[][]Date[][]'[]][i][[]8[]:[]10[]]))[].[]is
@@ -2961,217 +2944,217 @@ oweekday()[]
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1912.
+(mdframed)             works with oneside mode on input line 1864.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1943.
+(mdframed)             works with oneside mode on input line 1895.
 
-Overfull \hbox (59.63657pt too wide) in paragraph at lines 1946--1946
+Overfull \hbox (59.63657pt too wide) in paragraph at lines 1898--1898
 [][]\T1/pcr/m/sl/9.5 # create dynamic lists to store overnight returns of corre
 sponding days of the week[][] 
  []
 
 
-Overfull \hbox (36.83658pt too wide) in paragraph at lines 1947--1947
+Overfull \hbox (36.83658pt too wide) in paragraph at lines 1899--1899
 [][]\T1/pcr/m/sl/9.5 # control group  Friday, whereas experiment group  any oth
 er day(s) of the week[][] 
  []
 
-[27]
+[26]
 
-Package xcolor Warning: Incompatible color definition on input line 1990.
+Package xcolor Warning: Incompatible color definition on input line 1942.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1990.
+Package xcolor Warning: Incompatible color definition on input line 1942.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2045.
+(mdframed)             works with oneside mode on input line 1997.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2080.
+(mdframed)             works with oneside mode on input line 2032.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2086.
-<Final_Report_files/Final_Report_62_1.png, id=193, 421.575pt x 289.08pt>
+(mdframed)             works with oneside mode on input line 2038.
+<Final_Report_files/Final_Report_62_1.png, id=282, 421.575pt x 289.08pt>
 File: Final_Report_files/Final_Report_62_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_62_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_62_1.png used on input
- line 2089.
+ line 2041.
 (pdftex.def)             Requested size: 421.57396pt x 289.07928pt.
- [28]
+ [27]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2106.
+(mdframed)             works with oneside mode on input line 2058.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2138.
+(mdframed)             works with oneside mode on input line 2090.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2144.
+(mdframed)             works with oneside mode on input line 2096.
 
-<Final_Report_files/Final_Report_63_1.png, id=203, 421.575pt x 289.08pt>
+<Final_Report_files/Final_Report_63_1.png, id=290, 421.575pt x 289.08pt>
 File: Final_Report_files/Final_Report_63_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_63_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_63_1.png used on input
- line 2147.
+ line 2099.
 (pdftex.def)             Requested size: 421.57396pt x 289.07928pt.
- [29 <./Final_Report_files/Final_Report_62_1.png>]
+ [28 <./Final_Report_files/Final_Report_62_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2164.
+(mdframed)             works with oneside mode on input line 2116.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2196.
+(mdframed)             works with oneside mode on input line 2148.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2202.
+(mdframed)             works with oneside mode on input line 2154.
 
-<Final_Report_files/Final_Report_64_1.png, id=209, 421.575pt x 289.08pt>
+<Final_Report_files/Final_Report_64_1.png, id=296, 421.575pt x 289.08pt>
 File: Final_Report_files/Final_Report_64_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_64_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_64_1.png used on input
- line 2205.
+ line 2157.
 (pdftex.def)             Requested size: 421.57396pt x 289.07928pt.
- [30 <./Final_Report_files/Final_Report_63_1.png>]
+ [29 <./Final_Report_files/Final_Report_63_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2222.
+(mdframed)             works with oneside mode on input line 2174.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2254.
+(mdframed)             works with oneside mode on input line 2206.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2260.
+(mdframed)             works with oneside mode on input line 2212.
 
-<Final_Report_files/Final_Report_65_1.png, id=215, 421.575pt x 289.08pt>
+<Final_Report_files/Final_Report_65_1.png, id=302, 421.575pt x 289.08pt>
 File: Final_Report_files/Final_Report_65_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_65_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_65_1.png used on input
- line 2263.
+ line 2215.
 (pdftex.def)             Requested size: 421.57396pt x 289.07928pt.
- [31 <./Final_Report_files/Final_Report_64_1.png>]
+ [30 <./Final_Report_files/Final_Report_64_1.png>]
 
-Package xcolor Warning: Incompatible color definition on input line 2275.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2275.
-
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2312.
-[32 <./Final_Report_files/Final_Report_65_1.png>]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2339.
+Package xcolor Warning: Incompatible color definition on input line 2227.
 
 
-Package xcolor Warning: Incompatible color definition on input line 2348.
-
-
-Package xcolor Warning: Incompatible color definition on input line 2348.
+Package xcolor Warning: Incompatible color definition on input line 2227.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2364.
+(mdframed)             works with oneside mode on input line 2264.
+[31 <./Final_Report_files/Final_Report_65_1.png>]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2291.
 
-Overfull \hbox (19.42313pt too wide) in paragraph at lines 2375--2375
+
+Package xcolor Warning: Incompatible color definition on input line 2300.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2300.
+
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 2316.
+
+Overfull \hbox (19.42313pt too wide) in paragraph at lines 2327--2327
 []\T1/pcr/m/n/9.5 PT_tstats[]=[]((mean(Friday)[]-[]mean(AvgNon))[]-[][]0[])[]/[
 ](std(PT_diff)[]*[]sqrt([]len[](Friday)[]-[][]1[]))[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2396.
+(mdframed)             works with oneside mode on input line 2348.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2414.
+(mdframed)             works with oneside mode on input line 2366.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2437.
+(mdframed)             works with oneside mode on input line 2389.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2455.
+(mdframed)             works with oneside mode on input line 2407.
 
-Overfull \hbox (47.92311pt too wide) in paragraph at lines 2458--2458
+Overfull \hbox (47.92311pt too wide) in paragraph at lines 2410--2410
 [][]\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]"[][]Mean of Fridays is[][]"[], m
 ean(Friday), []"[][]and mean of NonFris is[][]"[], mean(NonFri))[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2477.
+(mdframed)             works with oneside mode on input line 2429.
 
-Package xcolor Warning: Incompatible color definition on input line 2487.
+Package xcolor Warning: Incompatible color definition on input line 2439.
 
 
-Package xcolor Warning: Incompatible color definition on input line 2487.
+Package xcolor Warning: Incompatible color definition on input line 2439.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2503.
+(mdframed)             works with oneside mode on input line 2455.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2527.
+(mdframed)             works with oneside mode on input line 2479.
 
-Package xcolor Warning: Incompatible color definition on input line 2541.
+Package xcolor Warning: Incompatible color definition on input line 2493.
 
 
-Package xcolor Warning: Incompatible color definition on input line 2541.
+Package xcolor Warning: Incompatible color definition on input line 2493.
 
-[33]
+[32]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2555.
+(mdframed)             works with oneside mode on input line 2507.
 
-Overfull \hbox (30.82312pt too wide) in paragraph at lines 2558--2558
+Overfull \hbox (30.82312pt too wide) in paragraph at lines 2510--2510
 [][]\T1/pcr/m/sl/9.5 # In order to apply Friedman test, measurements must have 
 equal length, hence,[][] 
  []
 
 
-Overfull \hbox (76.4231pt too wide) in paragraph at lines 2573--2573
+Overfull \hbox (76.4231pt too wide) in paragraph at lines 2525--2525
 [][]\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]len[](FridayFM), []len[](MondayFM
 ), []len[](TuesdayFM), []len[](WednesdayFM), []len[](ThursdayFM))[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2592.
+(mdframed)             works with oneside mode on input line 2544.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2610.
+(mdframed)             works with oneside mode on input line 2562.
 
-Overfull \hbox (184.72304pt too wide) in paragraph at lines 2613--2613
+Overfull \hbox (184.72304pt too wide) in paragraph at lines 2565--2565
 []\T1/pcr/m/n/9.5 u, fridman_p_value[]=[]stats[].[]mstats[].[]friedmanchisquare
 (FridayFM, MondayFM, TuesdayFM, WednesdayFM, ThursdayFM)[] 
  []
 
 
-Overfull \hbox (30.82312pt too wide) in paragraph at lines 2617--2617
+Overfull \hbox (30.82312pt too wide) in paragraph at lines 2569--2569
 [][]\T1/pcr/m/sl/9.5 # some of the measurements were taken differently at the 1
 % significance level[][] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2636.
+(mdframed)             works with oneside mode on input line 2588.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2654.
+(mdframed)             works with oneside mode on input line 2606.
 
-Overfull \hbox (93.52309pt too wide) in paragraph at lines 2657--2657
+Overfull \hbox (93.52309pt too wide) in paragraph at lines 2609--2609
 []\T1/pcr/m/n/9.5 u, p_value []=[] stats[].[]mstats[].[]friedmanchisquare(Monda
 yFM, TuesdayFM, WednesdayFM, ThursdayFM)[] 
  []
 
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 2658--2658
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 2610--2610
 [][]\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]"[][]four-measure (excluding Frid
 ay) Friedman test p-value is[][]"[], p_value)[] 
  []
 
 
-Overfull \hbox (19.42313pt too wide) in paragraph at lines 2661--2661
+Overfull \hbox (19.42313pt too wide) in paragraph at lines 2613--2613
 [][]\T1/pcr/m/sl/9.5 # null is not rejected at the 1% significance level, measu
 rements consistant[][] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2680.
+(mdframed)             works with oneside mode on input line 2632.
 
-Package xcolor Warning: Incompatible color definition on input line 2694.
+Package xcolor Warning: Incompatible color definition on input line 2646.
 
 
-Package xcolor Warning: Incompatible color definition on input line 2694.
+Package xcolor Warning: Incompatible color definition on input line 2646.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2703.
+(mdframed)             works with oneside mode on input line 2655.
 
-Overfull \hbox (161.92305pt too wide) in paragraph at lines 2708--2708
+Overfull \hbox (161.92305pt too wide) in paragraph at lines 2660--2660
 []\T1/pcr/m/n/9.5 data []=[] {[]'[][]Test Name[][]'[]: [[]'[][]Wilcoxon rank[][
 ]'[], []'[][]Matched Pair T[][]'[], []'[][]Kruskal-Wallis[][]'[], []'[][]T Stat
 istic[][]'[], []'[][]Fridman[][]'[]],[] 
  []
 
 
-Overfull \hbox (589.42282pt too wide) in paragraph at lines 2709--2709
+Overfull \hbox (589.42282pt too wide) in paragraph at lines 2661--2661
 []        []\T1/pcr/m/n/9.5 '[][]Requirements[][]'[]: [[]'[][]independent, dist
  equal under null[][]'[], []'[][]paired up, normal[][]'[], []'[][]one-way ANOVA
 , iid, normal[][]'[], []'[][]student[][]"[][]s t-tests, dof > 30[][]'[], []'[][
@@ -3179,123 +3162,123 @@ Overfull \hbox (589.42282pt too wide) in paragraph at lines 2709--2709
  []
 
 
-Overfull \hbox (99.22308pt too wide) in paragraph at lines 2710--2710
+Overfull \hbox (99.22308pt too wide) in paragraph at lines 2662--2662
 []        []\T1/pcr/m/n/9.5 '[][]P Value[][]'[]: [MW_p_value, PT_tstats, ANOVA_
 p_value, TSTAT_p_value, fridman_p_value],[] 
  []
 
 
-Overfull \hbox (93.52309pt too wide) in paragraph at lines 2712--2712
+Overfull \hbox (93.52309pt too wide) in paragraph at lines 2664--2664
 []\T1/pcr/m/n/9.5 football []=[] pd[].[]DataFrame(data, columns[]=[][[]'[][]Tes
 t Name[][]'[], []'[][]Requirements[][]'[], []'[][]P Value[][]'[], []'[][]Signif
 [][]'[]])[] 
  []
 
-[34]
+[33]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2732.
+(mdframed)             works with oneside mode on input line 2684.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 2734--2734
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 2686--2686
 []        \T1/pcr/m/n/10 Test Name                        Requirements   P Valu
 e Signif 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 2735--2735
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 2687--2687
 []\T1/pcr/m/n/10 0   Wilcoxon rank  independent, dist equal under null  0.23750
 5   >.05[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 2736--2736
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 2688--2688
 []\T1/pcr/m/n/10 1  Matched Pair T                   paired up, normal  0.00218
 3   <.01[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 2737--2737
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 2689--2689
 []\T1/pcr/m/n/10 2  Kruskal-Wallis          one-way ANOVA, iid, normal  0.47499
 0   >.05[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 2738--2738
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 2690--2690
 []\T1/pcr/m/n/10 3     T Statistic         student"s t-tests, dof > 30  0.16235
 6   >.05[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 2739--2739
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 2691--2691
 []\T1/pcr/m/n/10 4         Fridman         repeated measure same dist?  0.00000
 1   <.01[] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 2748.
+Package xcolor Warning: Incompatible color definition on input line 2700.
 
 
-Package xcolor Warning: Incompatible color definition on input line 2748.
+Package xcolor Warning: Incompatible color definition on input line 2700.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2784.
+(mdframed)             works with oneside mode on input line 2736.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2812.
+(mdframed)             works with oneside mode on input line 2764.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2830.
+(mdframed)             works with oneside mode on input line 2782.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2858.
+(mdframed)             works with oneside mode on input line 2810.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2876.
+(mdframed)             works with oneside mode on input line 2828.
 
-Overfull \hbox (82.1231pt too wide) in paragraph at lines 2881--2881
+Overfull \hbox (82.1231pt too wide) in paragraph at lines 2833--2833
 [][]\T1/pcr/m/sl/9.5 #setbins = [-0.01, -0.008, -0.006, -0.004, -0.002, 0, 0.00
 2, 0.004, 0.006, 0.008, 0.01][][] 
  []
 
 
-Overfull \hbox (36.52312pt too wide) in paragraph at lines 2883--2883
+Overfull \hbox (36.52312pt too wide) in paragraph at lines 2835--2835
 []\T1/pcr/m/n/9.5 plt[].[]hist(NonFri[]+[]Friday, bins[]=[][]25[], label[]=[][]
 "[][]Pooled Sample[][]"[],  normed[]=[][]True[], alpha[]=[][].[][]5[])[] 
  []
 
-[35]
+[34]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2908.
+(mdframed)             works with oneside mode on input line 2860.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2914.
+(mdframed)             works with oneside mode on input line 2866.
 
-<Final_Report_files/Final_Report_86_1.png, id=249, 414.54875pt x 289.08pt>
+<Final_Report_files/Final_Report_86_1.png, id=330, 414.54875pt x 289.08pt>
 File: Final_Report_files/Final_Report_86_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_86_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_86_1.png used on input
- line 2917.
+ line 2869.
 (pdftex.def)             Requested size: 414.54773pt x 289.07928pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2934.
+(mdframed)             works with oneside mode on input line 2886.
 
-Overfull \hbox (82.1231pt too wide) in paragraph at lines 2937--2937
+Overfull \hbox (82.1231pt too wide) in paragraph at lines 2889--2889
 [][]\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]"[][]Mean of Fridays is[][]"[], m
 ean(Friday), []"[][]and Mean of Pooled is[][]"[], mean(NonFri[]+[]Friday))[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2956.
+(mdframed)             works with oneside mode on input line 2908.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2975.
+(mdframed)             works with oneside mode on input line 2927.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 2997.
+(mdframed)             works with oneside mode on input line 2949.
 
-Package xcolor Warning: Incompatible color definition on input line 3006.
+Package xcolor Warning: Incompatible color definition on input line 2958.
 
 
-Package xcolor Warning: Incompatible color definition on input line 3006.
+Package xcolor Warning: Incompatible color definition on input line 2958.
 
-[36 <./Final_Report_files/Final_Report_86_1.png>]
+[35 <./Final_Report_files/Final_Report_86_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3027.
+(mdframed)             works with oneside mode on input line 2979.
 
-Overfull \hbox (498.22287pt too wide) in paragraph at lines 3031--3031
+Overfull \hbox (498.22287pt too wide) in paragraph at lines 2983--2983
 []\T1/pcr/m/n/9.5 kde []=[] KernelDensity(bandwidth[]=[][].[][]001[], algorithm
 []=[][]'[][]auto[][]'[], kernel[]=[][]'[][]tophat[][]'[], metric[]=[][]'[][]euc
 lidean[][]'[], atol[]=[][]0[], rtol[]=[][]0[], breadth_first[]=[][]True[], leaf
@@ -3303,33 +3286,33 @@ _size[]=[][]40[], metric_params[]=[][]None[])[]
  []
 
 
-Overfull \hbox (2.32314pt too wide) in paragraph at lines 3044--3044
+Overfull \hbox (2.32314pt too wide) in paragraph at lines 2996--2996
 []\T1/pcr/m/n/9.5 plt[].[]hist(Friday, bins[]=[][]25[], label[]=[][]"[][]Origin
 al Friday[][]"[], normed[]=[][]True[], alpha[]=[][].[][]5[])[] 
  []
 
 
-Overfull \hbox (36.52312pt too wide) in paragraph at lines 3045--3045
+Overfull \hbox (36.52312pt too wide) in paragraph at lines 2997--2997
 []\T1/pcr/m/n/9.5 plt[].[]hist(sample, bins[]=[][]25[], normed[]=[][]True[], la
 bel[]=[][]"[][]Kernel Sampled Friday[][]"[], alpha[]=[][].[][]5[])[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3073.
+(mdframed)             works with oneside mode on input line 3025.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3079.
-<Final_Report_files/Final_Report_90_1.png, id=256, 414.54875pt x 289.08pt>
+(mdframed)             works with oneside mode on input line 3031.
+<Final_Report_files/Final_Report_90_1.png, id=336, 414.54875pt x 289.08pt>
 File: Final_Report_files/Final_Report_90_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_90_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_90_1.png used on input
- line 3082.
+ line 3034.
 (pdftex.def)             Requested size: 414.54773pt x 289.07928pt.
- [37 <./Final_Report_files/Final_Report_90_1.png>]
+ [36 <./Final_Report_files/Final_Report_90_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3099.
+(mdframed)             works with oneside mode on input line 3051.
 
-Overfull \hbox (498.22287pt too wide) in paragraph at lines 3103--3103
+Overfull \hbox (498.22287pt too wide) in paragraph at lines 3055--3055
 []\T1/pcr/m/n/9.5 kde []=[] KernelDensity(bandwidth[]=[][].[][]001[], algorithm
 []=[][]'[][]auto[][]'[], kernel[]=[][]'[][]tophat[][]'[], metric[]=[][]'[][]euc
 lidean[][]'[], atol[]=[][]0[], rtol[]=[][]0[], breadth_first[]=[][]True[], leaf
@@ -3337,67 +3320,67 @@ _size[]=[][]40[], metric_params[]=[][]None[])[]
  []
 
 
-Overfull \hbox (42.22311pt too wide) in paragraph at lines 3116--3116
+Overfull \hbox (42.22311pt too wide) in paragraph at lines 3068--3068
 []\T1/pcr/m/n/9.5 plt[].[]hist(Friday[]+[]NonFri, bins[]=[][]25[], label[]=[][]
 "[][]Original Pooled[][]"[], normed[]=[][]True[], alpha[]=[][].[][]5[])[] 
  []
 
 
-Overfull \hbox (156.22305pt too wide) in paragraph at lines 3117--3117
+Overfull \hbox (156.22305pt too wide) in paragraph at lines 3069--3069
 []\T1/pcr/m/n/9.5 plt[].[]hist(sample, bins[]=[][]25[], normed[]=[][]True[], la
 bel[]=[][]"[][]Kernel Sampled[][]"[], alpha[]=[][].[][]5[])  []\T1/pcr/m/sl/9.5
  # settled down to Friday's[][] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3143.
+(mdframed)             works with oneside mode on input line 3095.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3149.
-<Final_Report_files/Final_Report_91_1.png, id=263, 414.54875pt x 289.08pt>
+(mdframed)             works with oneside mode on input line 3101.
+<Final_Report_files/Final_Report_91_1.png, id=342, 414.54875pt x 289.08pt>
 File: Final_Report_files/Final_Report_91_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_91_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_91_1.png used on input
- line 3152.
+ line 3104.
 (pdftex.def)             Requested size: 414.54773pt x 289.07928pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 3160.
+Package xcolor Warning: Incompatible color definition on input line 3112.
 
 
-Package xcolor Warning: Incompatible color definition on input line 3160.
+Package xcolor Warning: Incompatible color definition on input line 3112.
 
-[38 <./Final_Report_files/Final_Report_91_1.png>]
+[37 <./Final_Report_files/Final_Report_91_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3177.
+(mdframed)             works with oneside mode on input line 3129.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3197.
+(mdframed)             works with oneside mode on input line 3149.
 
-Overfull \hbox (53.62311pt too wide) in paragraph at lines 3213--3213
+Overfull \hbox (53.62311pt too wide) in paragraph at lines 3165--3165
 [][]\T1/pcr/b/n/9.5 print[]\T1/pcr/m/n/9.5 ([]"[][]Monte Carlo Bootstrapping wi
 th mean[][]"[], mean(BootMean), []"[][]variance[][]"[], Boot_var)[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3232.
+(mdframed)             works with oneside mode on input line 3184.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3251.
+(mdframed)             works with oneside mode on input line 3203.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3274.
+(mdframed)             works with oneside mode on input line 3226.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3300.
-<Final_Report_files/Final_Report_95_1.png, id=270, 446.66875pt x 278.03876pt>
+(mdframed)             works with oneside mode on input line 3252.
+<Final_Report_files/Final_Report_95_1.png, id=349, 446.66875pt x 278.03876pt>
 File: Final_Report_files/Final_Report_95_1.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_95_1.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_95_1.png used on input
- line 3303.
+ line 3255.
 (pdftex.def)             Requested size: 446.66765pt x 278.03807pt.
- [39]
+ [38]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3320.
+(mdframed)             works with oneside mode on input line 3272.
 
-Overfull \hbox (503.92287pt too wide) in paragraph at lines 3328--3328
+Overfull \hbox (503.92287pt too wide) in paragraph at lines 3280--3280
 []\T1/pcr/m/n/9.5 kdeF []=[] KernelDensity(bandwidth[]=[][].[][]001[], algorith
 m[]=[][]'[][]auto[][]'[], kernel[]=[][]'[][]tophat[][]'[], metric[]=[][]'[][]eu
 clidean[][]'[], atol[]=[][]0[], rtol[]=[][]0[], breadth_first[]=[][]True[], lea
@@ -3405,7 +3388,7 @@ f_size[]=[][]40[], metric_params[]=[][]None[])[]
  []
 
 
-Overfull \hbox (503.92287pt too wide) in paragraph at lines 3338--3338
+Overfull \hbox (503.92287pt too wide) in paragraph at lines 3290--3290
 []\T1/pcr/m/n/9.5 kdeR []=[] KernelDensity(bandwidth[]=[][].[][]001[], algorith
 m[]=[][]'[][]auto[][]'[], kernel[]=[][]'[][]tophat[][]'[], metric[]=[][]'[][]eu
 clidean[][]'[], atol[]=[][]0[], rtol[]=[][]0[], breadth_first[]=[][]True[], lea
@@ -3413,7 +3396,7 @@ f_size[]=[][]40[], metric_params[]=[][]None[])[]
  []
 
 
-Overfull \hbox (503.92287pt too wide) in paragraph at lines 3350--3350
+Overfull \hbox (503.92287pt too wide) in paragraph at lines 3302--3302
 []\T1/pcr/m/n/9.5 kdeW []=[] KernelDensity(bandwidth[]=[][].[][]001[], algorith
 m[]=[][]'[][]auto[][]'[], kernel[]=[][]'[][]tophat[][]'[], metric[]=[][]'[][]eu
 clidean[][]'[], atol[]=[][]0[], rtol[]=[][]0[], breadth_first[]=[][]True[], lea
@@ -3421,7 +3404,7 @@ f_size[]=[][]40[], metric_params[]=[][]None[])[]
  []
 
 
-Overfull \hbox (503.92287pt too wide) in paragraph at lines 3361--3361
+Overfull \hbox (503.92287pt too wide) in paragraph at lines 3313--3313
 []\T1/pcr/m/n/9.5 kdeT []=[] KernelDensity(bandwidth[]=[][].[][]001[], algorith
 m[]=[][]'[][]auto[][]'[], kernel[]=[][]'[][]tophat[][]'[], metric[]=[][]'[][]eu
 clidean[][]'[], atol[]=[][]0[], rtol[]=[][]0[], breadth_first[]=[][]True[], lea
@@ -3429,93 +3412,87 @@ f_size[]=[][]40[], metric_params[]=[][]None[])[]
  []
 
 
-Overfull \hbox (503.92287pt too wide) in paragraph at lines 3372--3372
+Overfull \hbox (503.92287pt too wide) in paragraph at lines 3324--3324
 []\T1/pcr/m/n/9.5 kdeM []=[] KernelDensity(bandwidth[]=[][].[][]001[], algorith
 m[]=[][]'[][]auto[][]'[], kernel[]=[][]'[][]tophat[][]'[], metric[]=[][]'[][]eu
 clidean[][]'[], atol[]=[][]0[], rtol[]=[][]0[], breadth_first[]=[][]True[], lea
 f_size[]=[][]40[], metric_params[]=[][]None[])[] 
  []
 
-[40 <./Final_Report_files/Final_Report_95_1.png>]
+[39 <./Final_Report_files/Final_Report_95_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3398.
+(mdframed)             works with oneside mode on input line 3350.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3432.
+(mdframed)             works with oneside mode on input line 3384.
 
-<Final_Report_files/Final_Report_97_0.png, id=280, 451.6875pt x 289.08pt>
+<Final_Report_files/Final_Report_97_0.png, id=360, 451.6875pt x 289.08pt>
 File: Final_Report_files/Final_Report_97_0.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_97_0.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_97_0.png used on input
- line 3435.
+ line 3387.
 (pdftex.def)             Requested size: 451.68639pt x 289.07928pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 3443.
+Package xcolor Warning: Incompatible color definition on input line 3395.
 
 
-Package xcolor Warning: Incompatible color definition on input line 3443.
+Package xcolor Warning: Incompatible color definition on input line 3395.
 
-[41 <./Final_Report_files/Final_Report_97_0.png>]
+[40 <./Final_Report_files/Final_Report_97_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3478.
+(mdframed)             works with oneside mode on input line 3430.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3511.
+(mdframed)             works with oneside mode on input line 3463.
 
-<Final_Report_files/Final_Report_99_0.png, id=286, 455.7025pt x 289.08pt>
+<Final_Report_files/Final_Report_99_0.png, id=366, 455.7025pt x 289.08pt>
 File: Final_Report_files/Final_Report_99_0.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_99_0.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_99_0.png used on input
- line 3514.
+ line 3466.
 (pdftex.def)             Requested size: 455.70137pt x 289.07928pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3531.
- [42 <./Final_Report_files/Final_Report_99_0.png>]
+(mdframed)             works with oneside mode on input line 3483.
+ [41 <./Final_Report_files/Final_Report_99_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 3564.
+(mdframed)             works with oneside mode on input line 3516.
 
-<Final_Report_files/Final_Report_100_0.png, id=297, 447.6725pt x 289.08pt>
+<Final_Report_files/Final_Report_100_0.png, id=376, 447.6725pt x 289.08pt>
 File: Final_Report_files/Final_Report_100_0.png Graphic file (type png)
 
 <use Final_Report_files/Final_Report_100_0.png>
 Package pdftex.def Info: Final_Report_files/Final_Report_100_0.png used on inpu
-t line 3567.
+t line 3519.
 (pdftex.def)             Requested size: 447.6714pt x 289.07928pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 3575.
+Package xcolor Warning: Incompatible color definition on input line 3527.
 
 
-Package xcolor Warning: Incompatible color definition on input line 3575.
+Package xcolor Warning: Incompatible color definition on input line 3527.
 
 No file Final_Report.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3600.
-[43 <./Final_Report_files/Final_Report_100_0.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3600.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3552.
+[42 <./Final_Report_files/Final_Report_100_0.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3552.
  (./Final_Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3600.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3600.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3552.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3552.
 
+Package rerunfilecheck Info: File `Final_Report.out' has not changed.
+(rerunfilecheck)             Checksum: AA9D9C56D40BEB7061940D5210E013B3;1960.
 
-
-Package rerunfilecheck Warning: File `Final_Report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Final_Report.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  AA9D9C56D40BEB7061940D5210E013B3;1960.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3600.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3552.
  ) 
 Here is how much of TeX's memory you used:
- 26977 strings out of 493315
- 474620 string characters out of 6137904
- 609959 words of memory out of 5000000
- 29770 multiletter control sequences out of 15000+600000
+ 26754 strings out of 493315
+ 472155 string characters out of 6137904
+ 611387 words of memory out of 5000000
+ 29551 multiletter control sequences out of 15000+600000
  39862 words of font info for 56 fonts, out of 8000000 for 9000
  958 hyphenation exceptions out of 8191
  56i,10n,78p,931b,988s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3530,10 +3507,10 @@ e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/
 nts/type1/urw/courier/ucrro8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
 e1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb>
-Output written on Final_Report.pdf (43 pages, 748608 bytes).
+Output written on Final_Report.pdf (42 pages, 749867 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 235 compressed objects within 3 object streams
- 82 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 439 PDF objects out of 1000 (max. 8388607)
+ 313 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 455 words of extra memory for PDF output out of 10000 (max. 10000000)
 
