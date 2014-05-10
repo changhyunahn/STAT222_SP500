@@ -11,17 +11,19 @@
 \BOOKMARK [2][-]{subsection.2.9}{Normality of the Data}{section.2}% 11
 \BOOKMARK [2][-]{subsection.2.10}{The Quantiles of Normal Distribution Plot}{section.2}% 12
 \BOOKMARK [2][-]{subsection.2.11}{Autocorrelation Function Plot}{section.2}% 13
-\BOOKMARK [1][-]{section.3}{Weekend Effect}{}% 14
-\BOOKMARK [2][-]{subsection.3.1}{Introduction}{section.3}% 15
-\BOOKMARK [2][-]{subsection.3.2}{Quantity of interest}{section.3}% 16
-\BOOKMARK [2][-]{subsection.3.3}{Quantity of Interest Plots}{section.3}% 17
-\BOOKMARK [2][-]{subsection.3.4}{Mann\205Whitney U Test}{section.3}% 18
-\BOOKMARK [2][-]{subsection.3.5}{Paired T-test}{section.3}% 19
-\BOOKMARK [2][-]{subsection.3.6}{The Kruskal-Wallis H-test}{section.3}% 20
-\BOOKMARK [2][-]{subsection.3.7}{The Friedman Test}{section.3}% 21
-\BOOKMARK [2][-]{subsection.3.8}{Statistical Tests Result Table}{section.3}% 22
-\BOOKMARK [2][-]{subsection.3.9}{Histogram}{section.3}% 23
-\BOOKMARK [2][-]{subsection.3.10}{Kernel Estimation}{section.3}% 24
-\BOOKMARK [2][-]{subsection.3.11}{Bootstrap}{section.3}% 25
-\BOOKMARK [2][-]{subsection.3.12}{Bootstrap Results}{section.3}% 26
-\BOOKMARK [1][-]{section.4}{Conclusions and Limitations}{}% 27
+\BOOKMARK [1][-]{section.3}{Test Suite}{}% 14
+\BOOKMARK [1][-]{section.4}{Weekend Effect}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Introduction}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Quantity of interest}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Quantity of Interest Plots}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.4}{Mann\205Whitney U Test}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.5}{Paired T-test}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.6}{The Kruskal-Wallis H-test}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.7}{The Friedman Test}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.8}{Statistical Tests Result Table}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.9}{Histogram}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.10}{Kernel Estimation}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.11}{Bootstrap}{section.4}% 26
+\BOOKMARK [2][-]{subsection.4.12}{Bootstrap Results}{section.4}% 27
+\BOOKMARK [1][-]{section.5}{Test Suite}{}% 28
+\BOOKMARK [1][-]{section.6}{Conclusions and Limitations}{}% 29

@@ -6,7 +6,15 @@ downloaded 301 Kb
 
 
 The downloaded binary packages are in
-	/var/folders/vc/r5p1rx6x1275xdrjkcfv2mlc0000gn/T//RtmpAMAR0T/downloaded_packages
+	/var/folders/vc/r5p1rx6x1275xdrjkcfv2mlc0000gn/T//RtmpB7Fcnh/downloaded_packages
+
+    ‘tseries’ version: 0.10-32
+
+    ‘tseries’ is a package for time series analysis and computational
+    finance.
+
+    See ‘library(help="tseries")’ for details.
+
 
  ***** ESTIMATION WITH ANALYTICAL GRADIENT ***** 
 

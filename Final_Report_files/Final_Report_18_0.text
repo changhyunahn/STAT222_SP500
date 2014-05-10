@@ -6,7 +6,7 @@ Dep. Variable:                      y   No. Observations:                 1796
 Model:                     ARMA(1, 1)   Log Likelihood               -7004.452
 Method:                       css-mle   S.D. of innovations             11.936
 Date:                Fri, 09 May 2014   AIC                          14016.904
-Time:                        03:19:54   BIC                          14038.877
+Time:                        20:22:04   BIC                          14038.877
 Sample:                             0   HQIC                         14025.016
                                                                               
 ==============================================================================
